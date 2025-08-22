@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUISnake (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUISnake (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
